@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Jefferson from Peru<br><br>- 📚I am currently learning DevOps<br>- ⚡ In my free time I play Valorant</p>
+<p align="left">I'm Jefferson <br><br>- 📚I am currently learning DevOps<br>- ⚡ In my free time I play Valorant</p>
 
 ###
 
