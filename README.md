@@ -1,8 +1,5 @@
 ###
-[![Banner!](assets/Banner.png)]
-<div align="center">
-  <img height="300" src="https://media.licdn.com/dms/image/D5616AQGOEqM2vjvncg/profile-displaybackgroundimage-shrink_350_1400/0/1712857887775?e=1720051200&v=beta&t=xzMXzCX4PWE1w3R0qvXnrxXoex9KkXOObJAhuwOY7_Y"  />
-</div>
+![Banner!](assets/Banner.png)
 
 ###
 
