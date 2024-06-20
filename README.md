@@ -13,7 +13,7 @@
 
 ###
 
-<h1 align="center">Aloo there 👋</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />Aloo there 👋</h1>
 
 ###
 
