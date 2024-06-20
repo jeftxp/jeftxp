@@ -1,3 +1,5 @@
+###
+[![Banner!](assets/Banner.png)]
 <div align="center">
   <img height="300" src="https://media.licdn.com/dms/image/D5616AQGOEqM2vjvncg/profile-displaybackgroundimage-shrink_350_1400/0/1712857887775?e=1720051200&v=beta&t=xzMXzCX4PWE1w3R0qvXnrxXoex9KkXOObJAhuwOY7_Y"  />
 </div>
@@ -72,7 +74,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
