@@ -1,7 +1,7 @@
 <div align="center">
 
-[![Aloo World, I'm Jefferson!](assets/header.gif)](https://github.com/kshyun28)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+[![Aloo World, I'm Jefferson!](assets/header2.gif)](https://github.com/Jefferson-23)
+Background GIF on [Pinterest](https://pin.it/3oRAwrqJb).
 <!--
 <div align="center">
   <img height="300" src="https://media.licdn.com/dms/image/D5616AQGOEqM2vjvncg/profile-displaybackgroundimage-shrink_350_1400/0/1712857887775?e=1720051200&v=beta&t=xzMXzCX4PWE1w3R0qvXnrxXoex9KkXOObJAhuwOY7_Y"  />
