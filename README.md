@@ -1,12 +1,7 @@
 <div align="center">
-
-[![Aloo World, I'm Jefferson!](assets/header2.gif)](https://github.com/Jefferson-23)
-Background GIF on [Pinterest](https://pin.it/3oRAwrqJb).
-<!--
-<div align="center">
   <img height="300" src="https://media.licdn.com/dms/image/D5616AQGOEqM2vjvncg/profile-displaybackgroundimage-shrink_350_1400/0/1712857887775?e=1720051200&v=beta&t=xzMXzCX4PWE1w3R0qvXnrxXoex9KkXOObJAhuwOY7_Y"  />
 </div>
--->
+
 ###
 
 <div align="center">
@@ -18,7 +13,7 @@ Background GIF on [Pinterest](https://pin.it/3oRAwrqJb).
 
 ###
 
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />Aloo there 👋</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />Aloo there </h1>
 
 ###
 
@@ -92,6 +87,8 @@ Background GIF on [Pinterest](https://pin.it/3oRAwrqJb).
 <div align="center">
 
 
-<h3 align="left">🔥   My Stats :</h3>
+<div align="center">
 
+[![Aloo World, I'm Jefferson!](assets/header2.gif)](https://github.com/Jefferson-23)
+Background GIF on [Pinterest](https://pin.it/3oRAwrqJb).
 ###
