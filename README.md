@@ -1,7 +1,12 @@
 <div align="center">
+
+[![Aloo World, I'm Jefferson!](assets/header.gif)](https://github.com/kshyun28)
+Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+<!--
+<div align="center">
   <img height="300" src="https://media.licdn.com/dms/image/D5616AQGOEqM2vjvncg/profile-displaybackgroundimage-shrink_350_1400/0/1712857887775?e=1720051200&v=beta&t=xzMXzCX4PWE1w3R0qvXnrxXoex9KkXOObJAhuwOY7_Y"  />
 </div>
-
+-->
 ###
 
 <div align="center">
@@ -84,8 +89,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
+<div align="center">
 
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 
