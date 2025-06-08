@@ -1,5 +1,5 @@
 ###
-![Banner!](assets/Banner.png)
+![Banner!](assets/Banner.svg)
 
 ###
 
